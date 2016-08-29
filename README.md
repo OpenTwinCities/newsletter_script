@@ -1,4 +1,4 @@
-# newsletter_script
+# newsletter_scripts
 
 Simple scripts we use to help us manage the OTC newsletter
 
