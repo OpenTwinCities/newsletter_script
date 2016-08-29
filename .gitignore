@@ -1,3 +1,7 @@
+# Any csv or zips
+*.csv
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
